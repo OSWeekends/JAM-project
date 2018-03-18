@@ -10,15 +10,15 @@ Poder conectar a espacios con gente atraida por las necesidades tanto musicales,
 
 ### Equipo
 
- - [Yoel Macia Delgado @____ymd____](github.com/ymdx) (Leader/contributor Backend/Frontend Developer)
- - [Pablo Carmona Gonzalez @_pablocarmona](github.com/PabloCarmona) (contributor Backend/Frontend Developer)
- - [Jorge Urosa Alonso @jorgeural](github.com/jorgeural) (contributor Backend/Frontend Developer)
- - [Chelo Quilón @lilxelo](github.com/lilxelo) (contributor Backend/Frontend Developer, Musica)
+ - [Yoel Macia Delgado](https://github.com/ymdx) (Leader/contributor Backend/Frontend Developer)
+ - [Pablo Carmona Gonzalez](https://github.com/PabloCarmona) (contributor Backend/Frontend Developer)
+ - [Jorge Urosa Alonso](https://github.com/jorgeural) (contributor Backend/Frontend Developer)
+ - [Chelo Quilón](https://github.com/lilxelo) (contributor Backend/Frontend Developer, Musica)
 
 ##### Agradecimientos
 
- - [Bryan McEire {{@McEire}}](ghitub.com/mceire)
- - [Comunidad Open Source Weekends {{@osweekends}}](ghitub.com/OSWeekends)
+ - [Bryan McEire](https://github.com/mceire)
+ - [Comunidad Open Source Weekends](https://github.com/OSWeekends)
 
 ##### Necesitamos
 
