@@ -14,6 +14,7 @@ Poder conectar a espacios con gente atraida por las necesidades tanto musicales,
  - [Pablo Carmona Gonzalez](https://github.com/PabloCarmona) (contributor Backend/Frontend Developer)
  - [Jorge Urosa Alonso](https://github.com/jorgeural) (contributor Backend/Frontend Developer)
  - [Chelo Quilón](https://github.com/lilxelo) (contributor Backend/Frontend Developer, Musica)
+ - [Adel Zarrouk](https://github.com/eidal) (contributor Backend/Frontend Developer)
 
 ##### Agradecimientos
 
